@@ -1,9 +1,9 @@
-# Hey, I'm Charly 👋
+# Hey, I'm kapi 👋
 
 42 School Student | C • C++ • Python • JavaScript • HTML • CSS
 
-Coding for 3 years in my spare time. Joined 42 School in October 2024.
-Work and some issues forced me to pause coding, but I'm back. 
+Coding for 3/4 years in my spare time. Joined 42 School in October 2024.
+Work and some issues forced me to pause coding multiple times, but finally I'm back.
 [February 2026]
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
