@@ -1,4 +1,4 @@
-# Hey, I'm Charly 👋
+Hey, I'm Charly 
 
 42 School Student | C • C++ • Python • JavaScript • HTML • CSS
 
