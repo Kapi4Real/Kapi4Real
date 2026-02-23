@@ -1,4 +1,4 @@
-# Hey, I'm kapi 👋
+# Hey, I'm Charly 👋
 
 42 School Student | C • C++ • Python • JavaScript • HTML • CSS
 
